@@ -1,6 +1,6 @@
 # Calculadora de IMC (Índice de Massa Corporal)
 
-# O que foi Usado?:
+# O que foi Usado?
   - Python
   - Tkinter
 
@@ -15,7 +15,7 @@
       - função pegar o valor
       - função fazer a imagem do homemzinho esticar
  
-## Como foi feita a lógica?:
+## Como foi feita a lógica?
    - Menor que 18.5: Abaixo do peso
    - Entre 18,5 e 24,9: Normal
    - Entre 25,0 e 29,9: Sobrepeso
